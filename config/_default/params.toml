@@ -13,6 +13,8 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
+# Google Analytics
+googleAnalytics = "UA-199371965-1"
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/xzbygeje"
 # Google Site Verify
